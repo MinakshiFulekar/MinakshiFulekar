@@ -1,7 +1,7 @@
  #hello-world
 - 👋 Hi, I’m @MinakshiFulekar
 - 👀 I’m interested in Hyperledger
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on your ORGANIZATION
 - 📫 How to reach me massage me
 
